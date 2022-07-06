@@ -3,7 +3,24 @@ This repository contains papers and codes (if available) for the deep learning i
 
 | Paper Title |    Where       |         Architecture   |      Task           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
+| Survey and Book|  |  |   |  | 
 | [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/pdf/2101.04562.pdf) | TPAMI2022 | Survey | -  | - |
+| [Hyperbolic Graph Neural Networks: A review of Methods and Application](https://arxiv.org/abs/2202.13852) | Arxiv | Survey | -  | - |
+| [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180) | Arxiv | Survey | -  | - |
+| ---------------------------------------------------------------------| ------------ | --------- | -----------  | --------- | 
+| Hyperbolic Neural Networks |  |  |   |  | 
+| [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) | NeurIPS 2018 |  |   |  |
+| [Hyperbolic Attention Networks](https://arxiv.org/abs/1805.09786) | ICLR 2019 |  |   |  |
+| [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) | ICLR 2021 |  |   |  |
+| [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) | ACL 2022 |  |   |  |
+| Hyperbolic Neural Networks on Graphs|  |  |   |  |
+| [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) | NeurIPS 2019 |  |   |  |
+| [Hyperbolic Graph Neural Network](https://arxiv.org/abs/1910.12892) | NeurIPS 2019 |  |   |  |
+| [Lorentzian Graph Convolutional Networks](https://arxiv.org/abs/2104.07477) | WWW 2021 |  |   |  |
+| [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/abs/2104.06942) | CVPR 2021 |  |   |  |
+| [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046) | Transcations on Big Data 2021 |  |   |  |
+| [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046) | CVPR 2021 |  |   |  |
+
 | [Hyperbolic Image Segmentation](https://arxiv.org/pdf/2203.05898.pdf) | CVPR2022 | Latent | Segmentation  | [PyTorch](https://github.com/MinaGhadimiAtigh/HyperbolicImageSegmentation) |
 | [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf) | ICCV2021 | latent | Few-shot  | [PyTorch](https://github.com/ZhiGaomcislab/CurvatureGeneration_FSL) |
 | [Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/pdf/2104.01257.pdf) | CVPR2021 | latent | segmentation  | [PyTorch](https://github.com/ZZWENG/longtail_segmentation) |
