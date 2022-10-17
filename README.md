@@ -20,7 +20,6 @@ This repository contains papers and codes (if available) for the deep learning i
 | [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/abs/2104.06942) | CVPR 2021 |  |   |  |
 | [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046) | Transcations on Big Data 2021 |  |   |  |
 | [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046) | CVPR 2021 |  |   |  |
-
 | [Hyperbolic Image Segmentation](https://arxiv.org/pdf/2203.05898.pdf) | CVPR2022 | Latent | Segmentation  | [PyTorch](https://github.com/MinaGhadimiAtigh/HyperbolicImageSegmentation) |
 | [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf) | ICCV2021 | latent | Few-shot  | [PyTorch](https://github.com/ZhiGaomcislab/CurvatureGeneration_FSL) |
 | [Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/pdf/2104.01257.pdf) | CVPR2021 | latent | segmentation  | [PyTorch](https://github.com/ZZWENG/longtail_segmentation) |
